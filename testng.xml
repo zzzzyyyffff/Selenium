@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <!--<suite name="Default Suite" thread-count="2" parallel="classes">-->
-<suite name="Default Suite" thread-count="2" parallel="methods">
+<suite name="Default Suite">
 
-  <test name="Selenium"
-
-
-  >
+  <test name="Selenium">
     <classes>
 <!--      <class name="com.demo.day01.AlertTest">-->
 <!--        <methods>-->
 <!--          <include name="testChrome"/>-->
 <!--        </methods>-->
 <!--      </class> -->
-      <class name="com.demo.day03.GridTest"></class>
+      <class name="com.demo.day01.AlertTest"></class>
     </classes>
   </test> <!-- Selenium -->
 </suite> <!-- Default Suite -->
