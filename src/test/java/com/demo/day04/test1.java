@@ -4,10 +4,12 @@ package com.demo.day04;
 //import org.openqa.selenium.By;
 //import org.openqa.selenium.WebDriver;
 
+
+import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.testng.annotations.Test;
+
 
 import java.net.MalformedURLException;
 import java.net.URL;
