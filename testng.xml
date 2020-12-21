@@ -10,7 +10,7 @@
 <!--          <include name="testChrome"/>-->
 <!--        </methods>-->
 <!--      </class> -->
-      <class name="com.demo.day01.AlertTest"></class>
+      <class name="com.demo.day04.test1"></class>
     </classes>
   </test> <!-- Selenium -->
 </suite> <!-- Default Suite -->
